@@ -1,6 +1,7 @@
 # SEM-App
 A tribute to a friend and brother - Samuel Ethelbirth Metzger
 <hr>
+
 ## Celebrating the Life of Samuel Ethelbirth Metzger and Introducing SEM App
 
 In loving memory of Samuel (Sky) whose memories in our hearts is everlasting, the Computer Science Class of 2024 is honored to introduce SEM App, a special platform designed to help express your appreciation, shoutout and celebrate the people who make a difference in your life and make them feel loved and know that someone cares. Whether it’s a friend, family member, colleague or anyone who deserves a little extra recognition, SEM App makes it easy to share your heartfelt messages and moments of gratitude.
