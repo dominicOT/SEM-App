@@ -1,3 +1,16 @@
+header {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#logo {
+    display: block;
+    margin: 0 auto;
+    max-width: 150px;
+    height: auto;
+}
+
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -20,9 +33,11 @@ h1 {
 }
 
 form {
+    margin: 0 auto;
     display: flex;
     flex-direction: column;
     gap: 10px;
+    max-width: 90%;
 }
 
 #photoInput, #messageInput {
@@ -53,8 +68,10 @@ button:hover {
     background-color: #0056b3;
 }
 
+
 #tributesContainer {
-    margin-top: 20px;
+    margin-top: 20px auto;
+    max-width: 90%;
 }
 
 .tribute {
